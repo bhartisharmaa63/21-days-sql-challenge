@@ -1,4 +1,4 @@
-# 21-days-sql-challenge
+# 21-days-SQL-challenge
 SQL practice and solutions from the 21 Days SQL Challenge by Indian Data Club and DPDZero
 
 This repository contains my daily SQL practice as part of the
