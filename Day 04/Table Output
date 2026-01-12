@@ -1,0 +1,8 @@
+**Output Table**
+
+Patient_ID,   Name,             Service,  Satisfaction
+PAT-1112a754	Ashley Smith	    surgery	   99
+PAT-8bfedd28	Amanda Harvey	    emergency	 99
+PAT-84559395	Jamie Smith	      surgery	   99
+PAT-87fa07bd	Martha Smith	    emergency	 99
+PAT-2b471903	Tiffany Townsend	surgery	   99
