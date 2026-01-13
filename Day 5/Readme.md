@@ -1,4 +1,4 @@
-## Day 5 - Aggregate functions and data summarization
+## Day 05 - Aggregate functions and data summarization
 
 Practiced:
 - Counting total records using COUNT()
