@@ -5,4 +5,5 @@ emergency,   5008,	                 77.88
 surgery,	   555,	                   79.27
 
 Observation:
-Both Emergency and Surgery services exceeded 100 refused patients while maintaining average satisfaction scores below 80. Notably, the Emergency department shows a much higher refusal count along with lower patient satisfaction, suggesting a stronger need for operational or capacity-level improvements.
+Both Emergency and Surgery services exceeded 100 refused patients while maintaining average satisfaction scores below 80. Notably, 
+the Emergency department shows a much higher refusal count along with lower patient satisfaction, suggesting a stronger need for operational or capacity-level improvements.
