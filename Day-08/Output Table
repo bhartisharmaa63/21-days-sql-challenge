@@ -1,0 +1,13 @@
+Output Table
+
+Patient_ID    Name               Service           Age_category  Length_of_name
+PAT-09484753	RICHARD RODRIGUEZ	 surgery	         Adult	       17
+PAT-f0644084	SHANNON WALKER	   surgery	         Minor	       14
+PAT-ac6162e4	JULIA TORRES	     general_medicine	 Adult	       12
+PAT-3dda2bb5	CRYSTAL JOHNSON	   emergency	       Adult	       15
+PAT-08591375	GARRETT LIN	       icu	             Adult	       11
+PAT-283cda07	WILLIAM HERRERA	   emergency	       Adult	       15
+PAT-5b61868c	ASHLEY WALLER	     icu	             Minor	       13
+PAT-f9c8afa6	VICTOR BAKER	     general_medicine	 Adult	       12
+PAT-5290be70	JEFFREY CHANDLER	 emergency	       Adult	       16
+PAT-003ce690	LARRY DIXON	       icu	             Adult	       11
