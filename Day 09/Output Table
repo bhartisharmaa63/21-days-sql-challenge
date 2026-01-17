@@ -1,0 +1,12 @@
+OUTPUT TABLE
+
+
+Service,   Avg_length_of_Stay_in_days,  Count_of_Patients
+emergency	 7.16	                        263
+ICU	       7.61	                        241
+surgery	   7.87	                        254
+
+Observation: Surgery, ICU, and Emergency services have an average patient stay of more than 7 days. 
+Surgery shows the longest average stay, meaning patients usually need more time to recover. 
+Emergency has the highest number of patients, showing high patient flow with moderately long stays. 
+General Medicine is not included because its average length of stay is less than 7 days.
