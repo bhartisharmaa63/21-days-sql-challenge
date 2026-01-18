@@ -1,0 +1,14 @@
+OUTPUT TABLE
+
+
+Service,            Tot_patients_admitted,  Avg_Satisfaction_score,  Satisfaction_category
+ICU,	              648,	                  81.62,	                 Good
+general_medicine,	  2332,	                  81.23,	                 Good
+surgery,	          1686,	                  79.27,	                 Good
+emergency,	        1185,	                  77.88,	                 Good
+
+Observation:
+
+All four services have average satisfaction scores ranging between 77 and 82, placing them in the “Good” category. 
+This indicates that overall service performance is satisfactory. However, further analysis is recommended to identify 
+gaps and improvement areas so that all services can progress toward the “Excellent” category.
