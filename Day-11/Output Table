@@ -1,0 +1,20 @@
+OUTPUT TABLE
+
+
+Service,           Event_Type,    Occurence_count
+general_medicine,	 flu,	          6
+ICU,	             flu,	          5
+emergency,	       flu,	          5
+surgery,	         donation,	    5
+surgery,	         strike,	      4
+emergency,	       donation,	    4
+emergency,	       strike,	      4
+surgery,	         flu,	          3
+general_medicine,	 donation,	    3
+general_medicine,	 strike,	      3
+ICU,	             donation,	    2
+
+Observation:
+- Flu is the most common event and appears across all services.
+- General medicine has the highest flu cases, while emergency and surgery handle a mix of different events.
+- ICU mainly deals with flu and has fewer other event types.
