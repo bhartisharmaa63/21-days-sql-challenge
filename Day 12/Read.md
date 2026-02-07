@@ -1,6 +1,7 @@
-## Day- 12- Topics: LEFT JOIN, RIGHT JOIN, including unmatched records
-Practiced joining two tables using Left and right joins and retrieving data to get insights
+## Day- 12-  Topics: NULL handling, IS NULL, IS NOT NULL, COALESCE
+Focused on NULL handling in MYSQL and learned how crucial it is to treat missing data correctly using IS NULL, 
+IS NOT NULL, and conditional logic.
 
 ### Daily Challenge:
-Create a staff utilisation report showing all staff members (staff_id, staff_name, role, service) 
-and the count of weeks they were present (from staff_schedule). Include staff members even if they have no schedule records. Order by weeks present descending.
+Analyze the event impact by comparing weeks with events vs weeks without events. Show: event status ('With Event' or 'No Event'), count of weeks, 
+average patient satisfaction, and average staff morale. Order by average patient satisfaction descending.
