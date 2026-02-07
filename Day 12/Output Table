@@ -1,0 +1,4 @@
+Output Table
+
+event_status, week_count, avg_patient_satisfaction, avg_staff_morale
+With Event,   52,         80.00,                     72.57
