@@ -1,0 +1,11 @@
+Output Table
+
+service_name, total_patients_admitted, total_patients_refused, avg_patient_satisfaction, staff_assigned, staff_present
+general_medicine	1080	810	64.0000	27	24
+surgery	682	176	99.0000	22	22
+emergency	609	696	93.0000	29	27
+ICU	480	192	85.0000	48	42 
+
+Observation: 
+General Medicine handles the highest patient load but also has extremely high refusals and low satisfaction, indicating capacity and \
+service quality issues. Meanwhile, Surgery is the best-performing department with high satisfaction, low refusals, and full staff availability.
