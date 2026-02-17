@@ -1,0 +1,8 @@
+Output Table for challenge
+
+
+service,          tot_admissions,  tot_refusals,  avg_satisfaction,  tot_staff,  avg_weeks_present,  patient_count,  avg_patient_age,  performance_score
+ICU	              648	             141	          81.6	             48	         52	                 241	           44.2	             81.9
+surgery	          1686	           555	          79.3	             22	         52	                 254	           45.6	             76.8
+general_medicine	2332	           1938	          81.2	             27	         52	                 242	           46.2	             65.3
+emergency	        1185	           5008	          77.9	             29	         52	                 263	           45.3	             42.6
